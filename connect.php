@@ -1,7 +1,7 @@
  <?php
 $servername = "sql309.epizy.com";
 $username = "epiz_32554760";
-$password = "gBUzOhydNZlsfGn";
+$password = "<please use your password>";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
